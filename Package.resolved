@@ -1,0 +1,158 @@
+{
+  "pins" : [
+    {
+      "identity" : "adsglobalpackage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/bytedance/AdsGlobalPackage.git",
+      "state" : {
+        "revision" : "c900b4f14f5de8ae21d859a1c39d7d6cf6bc8ad7",
+        "version" : "8.3.0-release.6"
+      }
+    },
+    {
+      "identity" : "appharbrsdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/GeoEdgeSDK/AppHarbrSDK.git",
+      "state" : {
+        "revision" : "7722dbbf40400bad8e36bb7fe541d860b9ffc73b",
+        "version" : "1.36.0"
+      }
+    },
+    {
+      "identity" : "applovin-max-swift-package",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/AppLovin/AppLovin-MAX-Swift-Package.git",
+      "state" : {
+        "revision" : "02544c3400d228cce5718e22f71f8d02787ba91e",
+        "version" : "13.6.4"
+      }
+    },
+    {
+      "identity" : "bidmachine-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/bidmachine/BidMachine-SPM.git",
+      "state" : {
+        "revision" : "bc36a9b7badcb852982155ad05b65bbada0743ae",
+        "version" : "3.8.0"
+      }
+    },
+    {
+      "identity" : "dtexchangesdk-ios-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/inner-active/DTExchangeSDK-iOS-SPM.git",
+      "state" : {
+        "revision" : "14a6792285a47ebbe236c75418fa4782307da470",
+        "version" : "8.4.10"
+      }
+    },
+    {
+      "identity" : "fbaudiencenetwork",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/facebook/FBAudienceNetwork.git",
+      "state" : {
+        "revision" : "26100d29de1cdb6753d7c602391f6fc6d29f6507",
+        "version" : "6.22.0"
+      }
+    },
+    {
+      "identity" : "inmobisdk-swift-package",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/InMobi/InMobiSDK-Swift-Package.git",
+      "state" : {
+        "revision" : "ba46fc5d865080b352d0002533e14a9298fcddbe",
+        "version" : "11.4.1"
+      }
+    },
+    {
+      "identity" : "mintegraladsdk-swift-package",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Mintegral-official/MintegralAdSDK-Swift-Package.git",
+      "state" : {
+        "revision" : "71e78da3d6070792c2216fef333daa652411f3a7",
+        "version" : "8.1.7"
+      }
+    },
+    {
+      "identity" : "moloco-sdk-ios-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/moloco/moloco-sdk-ios-spm.git",
+      "state" : {
+        "revision" : "dc2afafb4e66f3c21fd32ccc926a25f0e772ea1a",
+        "version" : "4.10.0"
+      }
+    },
+    {
+      "identity" : "omsdk-appodeal-ios-package",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/bidmachine/OMSDK-Appodeal-iOS-Package",
+      "state" : {
+        "revision" : "4bf273b11b7e54055272330ee2a2329b0f1d19e9",
+        "version" : "1.6.3"
+      }
+    },
+    {
+      "identity" : "swift-package-manager-google-mobile-ads",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/googleads/swift-package-manager-google-mobile-ads.git",
+      "state" : {
+        "revision" : "54efe6d39a7b41b84c1041f21c704a7e6a493d7a",
+        "version" : "13.9.0"
+      }
+    },
+    {
+      "identity" : "swift-package-manager-google-user-messaging-platform",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/googleads/swift-package-manager-google-user-messaging-platform.git",
+      "state" : {
+        "revision" : "13b248eaa73b7826f0efb1bcf455e251d65ecb1b",
+        "version" : "3.1.0"
+      }
+    },
+    {
+      "identity" : "unity-ad-quality-swift-package",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ironsource-mobile/Unity-Ad-Quality-Swift-Package",
+      "state" : {
+        "revision" : "7b67cefa586b09e95df54413b48e907c6649e4ca",
+        "version" : "9.9.0"
+      }
+    },
+    {
+      "identity" : "unity-ads-swift-package",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Unity-Technologies/Unity-Ads-Swift-Package.git",
+      "state" : {
+        "revision" : "2d489ee19ef73cdb51410ad09f0f13cb4f9cb388",
+        "version" : "4.20.1"
+      }
+    },
+    {
+      "identity" : "unity-mediation-iads-swift-package",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ironsource-mobile/Unity-Mediation-iAds-Swift-Package.git",
+      "state" : {
+        "revision" : "3093cf731af059a3819ef62c4c0dafe34e8e2d28",
+        "version" : "9.6.0"
+      }
+    },
+    {
+      "identity" : "vungleadssdk-swiftpackagemanager",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Vungle/VungleAdsSDK-SwiftPackageManager.git",
+      "state" : {
+        "revision" : "fad76e1308414d59a13015e2c12f551860c4509a",
+        "version" : "7.7.7"
+      }
+    },
+    {
+      "identity" : "ysonetwork-ios-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://bitbucket.org/ysocorp/ysonetwork-ios-sdk.git",
+      "state" : {
+        "revision" : "de931f012ba9568a45fc18e2b6fe120feb10be19",
+        "version" : "1.2.1"
+      }
+    }
+  ],
+  "version" : 2
+}
