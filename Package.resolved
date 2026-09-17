@@ -41,8 +41,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/inner-active/DTExchangeSDK-iOS-SPM.git",
       "state" : {
-        "revision" : "14a6792285a47ebbe236c75418fa4782307da470",
-        "version" : "8.4.10"
+        "revision" : "45a053f52545ad4816e771435f964f6a091dc932",
+        "version" : "8.5.0"
       }
     },
     {
