@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/bytedance/AdsGlobalPackage.git",
       "state" : {
-        "revision" : "c900b4f14f5de8ae21d859a1c39d7d6cf6bc8ad7",
-        "version" : "8.3.0-release.6"
+        "revision" : "313cdb970a8ae2f72ab1e65e53cf864591a321e8",
+        "version" : "8.3.0-release.7"
       }
     },
     {
@@ -14,8 +14,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/GeoEdgeSDK/AppHarbrSDK.git",
       "state" : {
-        "revision" : "7722dbbf40400bad8e36bb7fe541d860b9ffc73b",
-        "version" : "1.36.0"
+        "revision" : "79e1c85d361f2496477127bab9884c2d52053bca",
+        "version" : "1.37.0"
       }
     },
     {
@@ -95,8 +95,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/googleads/swift-package-manager-google-mobile-ads.git",
       "state" : {
-        "revision" : "54efe6d39a7b41b84c1041f21c704a7e6a493d7a",
-        "version" : "13.9.0"
+        "revision" : "12b7af0f844723a86fd3c0089b02f64b1e495605",
+        "version" : "13.10.0"
       }
     },
     {
