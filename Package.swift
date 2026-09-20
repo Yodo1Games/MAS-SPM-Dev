@@ -113,6 +113,7 @@ let package = Package(
             dependencies: [
                 .target(name: "Yodo1MasMediationAdMob"),
                 .product(name: "AppLovinSDK", package: "AppLovin-MAX-Swift-Package"),
+                .target(name: "AppLovinMediationGoogleAdapter"),
             ],
             path: "Sources/Yodo1MasMediationAdMob-AppLovinMediationGoogleAdapterTarget",
         ),
@@ -127,6 +128,7 @@ let package = Package(
             dependencies: [
                 .target(name: "Yodo1MasMediationAdMob"),
                 .product(name: "AppLovinSDK", package: "AppLovin-MAX-Swift-Package"),
+                .target(name: "AppLovinMediationGoogleAdManagerAdapter"),
             ],
             path: "Sources/Yodo1MasMediationAdMob-AppLovinMediationGoogleAdManagerAdapterTarget",
         ),
@@ -141,6 +143,7 @@ let package = Package(
             dependencies: [
                 .target(name: "Yodo1MasMediationAdMob"),
                 .product(name: "UnityMediationSDK", package: "Unity-Mediation-iAds-Swift-Package"),
+                .target(name: "ISAdMobAdapter"),
             ],
             path: "Sources/Yodo1MasMediationAdMob-ISAdMobAdapterTarget",
         ),
@@ -170,6 +173,7 @@ let package = Package(
             dependencies: [
                 .target(name: "Yodo1MasMediationApplovin"),
                 .product(name: "GoogleMobileAds", package: "swift-package-manager-google-mobile-ads"),
+                .target(name: "AppLovinAdapter"),
             ],
             path: "Sources/Yodo1MasMediationApplovin-AppLovinAdapterTarget",
         ),
@@ -184,6 +188,7 @@ let package = Package(
             dependencies: [
                 .target(name: "Yodo1MasMediationApplovin"),
                 .product(name: "UnityMediationSDK", package: "Unity-Mediation-iAds-Swift-Package"),
+                .target(name: "ISAppLovinAdapter"),
             ],
             path: "Sources/Yodo1MasMediationApplovin-ISAppLovinAdapterTarget",
         ),
@@ -197,6 +202,7 @@ let package = Package(
             name: "Yodo1MasMediationApplovin-A11MediationAppLovinMAXAdapterTarget",
             dependencies: [
                 .target(name: "Yodo1MasMediationApplovin"),
+                .target(name: "A11MediationAppLovinMAXAdapter"),
             ],
             path: "Sources/Yodo1MasMediationApplovin-A11MediationAppLovinMAXAdapterTarget",
         ),
@@ -226,6 +232,7 @@ let package = Package(
             dependencies: [
                 .target(name: "Yodo1MasMediationBidMachine"),
                 .product(name: "AppLovinSDK", package: "AppLovin-MAX-Swift-Package"),
+                .target(name: "AppLovinMediationBidMachineAdapter"),
             ],
             path: "Sources/Yodo1MasMediationBidMachine-AppLovinMediationBidMachineAdapterTarget",
         ),
@@ -240,6 +247,7 @@ let package = Package(
             dependencies: [
                 .target(name: "Yodo1MasMediationBidMachine"),
                 .product(name: "GoogleMobileAds", package: "swift-package-manager-google-mobile-ads"),
+                .target(name: "GoogleBidMachineAdapter"),
             ],
             path: "Sources/Yodo1MasMediationBidMachine-GoogleBidMachineAdapterTarget",
         ),
@@ -254,6 +262,7 @@ let package = Package(
             dependencies: [
                 .target(name: "Yodo1MasMediationBidMachine"),
                 .product(name: "UnityMediationSDK", package: "Unity-Mediation-iAds-Swift-Package"),
+                .target(name: "ISBidMachineAdapter"),
             ],
             path: "Sources/Yodo1MasMediationBidMachine-ISBidMachineAdapterTarget",
         ),
@@ -283,6 +292,7 @@ let package = Package(
             dependencies: [
                 .target(name: "Yodo1MasMediationFacebook"),
                 .product(name: "AppLovinSDK", package: "AppLovin-MAX-Swift-Package"),
+                .target(name: "AppLovinMediationFacebookAdapter"),
             ],
             path: "Sources/Yodo1MasMediationFacebook-AppLovinMediationFacebookAdapterTarget",
         ),
@@ -297,6 +307,7 @@ let package = Package(
             dependencies: [
                 .target(name: "Yodo1MasMediationFacebook"),
                 .product(name: "GoogleMobileAds", package: "swift-package-manager-google-mobile-ads"),
+                .target(name: "MetaAdapter"),
             ],
             path: "Sources/Yodo1MasMediationFacebook-MetaAdapterTarget",
         ),
@@ -311,6 +322,7 @@ let package = Package(
             dependencies: [
                 .target(name: "Yodo1MasMediationFacebook"),
                 .product(name: "UnityMediationSDK", package: "Unity-Mediation-iAds-Swift-Package"),
+                .target(name: "ISFacebookAdapter"),
             ],
             path: "Sources/Yodo1MasMediationFacebook-ISFacebookAdapterTarget",
         ),
@@ -340,6 +352,7 @@ let package = Package(
             dependencies: [
                 .target(name: "Yodo1MasMediationFyber"),
                 .product(name: "AppLovinSDK", package: "AppLovin-MAX-Swift-Package"),
+                .target(name: "AppLovinMediationFyberAdapter"),
             ],
             path: "Sources/Yodo1MasMediationFyber-AppLovinMediationFyberAdapterTarget",
         ),
@@ -354,6 +367,7 @@ let package = Package(
             dependencies: [
                 .target(name: "Yodo1MasMediationFyber"),
                 .product(name: "GoogleMobileAds", package: "swift-package-manager-google-mobile-ads"),
+                .target(name: "DTExchangeAdapter"),
             ],
             path: "Sources/Yodo1MasMediationFyber-DTExchangeAdapterTarget",
         ),
@@ -368,6 +382,7 @@ let package = Package(
             dependencies: [
                 .target(name: "Yodo1MasMediationFyber"),
                 .product(name: "UnityMediationSDK", package: "Unity-Mediation-iAds-Swift-Package"),
+                .target(name: "ISFyberAdapter"),
             ],
             path: "Sources/Yodo1MasMediationFyber-ISFyberAdapterTarget",
         ),
@@ -397,6 +412,7 @@ let package = Package(
             dependencies: [
                 .target(name: "Yodo1MasMediationInMobi"),
                 .product(name: "AppLovinSDK", package: "AppLovin-MAX-Swift-Package"),
+                .target(name: "AppLovinMediationInMobiAdapter"),
             ],
             path: "Sources/Yodo1MasMediationInMobi-AppLovinMediationInMobiAdapterTarget",
         ),
@@ -411,6 +427,7 @@ let package = Package(
             dependencies: [
                 .target(name: "Yodo1MasMediationInMobi"),
                 .product(name: "GoogleMobileAds", package: "swift-package-manager-google-mobile-ads"),
+                .target(name: "InMobiAdapter"),
             ],
             path: "Sources/Yodo1MasMediationInMobi-InMobiAdapterTarget",
         ),
@@ -425,6 +442,7 @@ let package = Package(
             dependencies: [
                 .target(name: "Yodo1MasMediationInMobi"),
                 .product(name: "UnityMediationSDK", package: "Unity-Mediation-iAds-Swift-Package"),
+                .target(name: "ISInMobiAdapter"),
             ],
             path: "Sources/Yodo1MasMediationInMobi-ISInMobiAdapterTarget",
         ),
@@ -454,6 +472,7 @@ let package = Package(
             dependencies: [
                 .target(name: "Yodo1MasMediationIronSource"),
                 .product(name: "AppLovinSDK", package: "AppLovin-MAX-Swift-Package"),
+                .target(name: "AppLovinMediationIronSourceAdapter"),
             ],
             path: "Sources/Yodo1MasMediationIronSource-AppLovinMediationIronSourceAdapterTarget",
         ),
@@ -468,6 +487,7 @@ let package = Package(
             dependencies: [
                 .target(name: "Yodo1MasMediationIronSource"),
                 .product(name: "GoogleMobileAds", package: "swift-package-manager-google-mobile-ads"),
+                .target(name: "IronSourceAdapter"),
             ],
             path: "Sources/Yodo1MasMediationIronSource-IronSourceAdapterTarget",
         ),
@@ -497,6 +517,7 @@ let package = Package(
             dependencies: [
                 .target(name: "Yodo1MasMediationMintegral"),
                 .product(name: "AppLovinSDK", package: "AppLovin-MAX-Swift-Package"),
+                .target(name: "AppLovinMediationMintegralAdapter"),
             ],
             path: "Sources/Yodo1MasMediationMintegral-AppLovinMediationMintegralAdapterTarget",
         ),
@@ -511,6 +532,7 @@ let package = Package(
             dependencies: [
                 .target(name: "Yodo1MasMediationMintegral"),
                 .product(name: "GoogleMobileAds", package: "swift-package-manager-google-mobile-ads"),
+                .target(name: "MintegralAdapter"),
             ],
             path: "Sources/Yodo1MasMediationMintegral-MintegralAdapterTarget",
         ),
@@ -525,6 +547,7 @@ let package = Package(
             dependencies: [
                 .target(name: "Yodo1MasMediationMintegral"),
                 .product(name: "UnityMediationSDK", package: "Unity-Mediation-iAds-Swift-Package"),
+                .target(name: "ISMintegralAdapter"),
             ],
             path: "Sources/Yodo1MasMediationMintegral-ISMintegralAdapterTarget",
         ),
@@ -554,6 +577,7 @@ let package = Package(
             dependencies: [
                 .target(name: "Yodo1MasMediationMoloco"),
                 .product(name: "AppLovinSDK", package: "AppLovin-MAX-Swift-Package"),
+                .target(name: "AppLovinMediationMolocoAdapter"),
             ],
             path: "Sources/Yodo1MasMediationMoloco-AppLovinMediationMolocoAdapterTarget",
         ),
@@ -568,6 +592,7 @@ let package = Package(
             dependencies: [
                 .target(name: "Yodo1MasMediationMoloco"),
                 .product(name: "GoogleMobileAds", package: "swift-package-manager-google-mobile-ads"),
+                .target(name: "MolocoAdapter"),
             ],
             path: "Sources/Yodo1MasMediationMoloco-MolocoAdapterTarget",
         ),
@@ -582,6 +607,7 @@ let package = Package(
             dependencies: [
                 .target(name: "Yodo1MasMediationMoloco"),
                 .product(name: "UnityMediationSDK", package: "Unity-Mediation-iAds-Swift-Package"),
+                .target(name: "ISMolocoAdapter"),
             ],
             path: "Sources/Yodo1MasMediationMoloco-ISMolocoAdapterTarget",
         ),
@@ -611,6 +637,7 @@ let package = Package(
             dependencies: [
                 .target(name: "Yodo1MasMediationPangle"),
                 .product(name: "AppLovinSDK", package: "AppLovin-MAX-Swift-Package"),
+                .target(name: "AppLovinMediationByteDanceAdapter"),
             ],
             path: "Sources/Yodo1MasMediationPangle-AppLovinMediationByteDanceAdapterTarget",
         ),
@@ -625,6 +652,7 @@ let package = Package(
             dependencies: [
                 .target(name: "Yodo1MasMediationPangle"),
                 .product(name: "GoogleMobileAds", package: "swift-package-manager-google-mobile-ads"),
+                .target(name: "PangleAdapter"),
             ],
             path: "Sources/Yodo1MasMediationPangle-PangleAdapterTarget",
         ),
@@ -639,6 +667,7 @@ let package = Package(
             dependencies: [
                 .target(name: "Yodo1MasMediationPangle"),
                 .product(name: "UnityMediationSDK", package: "Unity-Mediation-iAds-Swift-Package"),
+                .target(name: "ISPangleAdapter"),
             ],
             path: "Sources/Yodo1MasMediationPangle-ISPangleAdapterTarget",
         ),
@@ -668,6 +697,7 @@ let package = Package(
             dependencies: [
                 .target(name: "Yodo1MasMediationUnityAds"),
                 .product(name: "AppLovinSDK", package: "AppLovin-MAX-Swift-Package"),
+                .target(name: "AppLovinMediationUnityAdsAdapter"),
             ],
             path: "Sources/Yodo1MasMediationUnityAds-AppLovinMediationUnityAdsAdapterTarget",
         ),
@@ -682,6 +712,7 @@ let package = Package(
             dependencies: [
                 .target(name: "Yodo1MasMediationUnityAds"),
                 .product(name: "GoogleMobileAds", package: "swift-package-manager-google-mobile-ads"),
+                .target(name: "UnityAdapter"),
             ],
             path: "Sources/Yodo1MasMediationUnityAds-UnityAdapterTarget",
         ),
@@ -696,6 +727,7 @@ let package = Package(
             dependencies: [
                 .target(name: "Yodo1MasMediationUnityAds"),
                 .product(name: "UnityMediationSDK", package: "Unity-Mediation-iAds-Swift-Package"),
+                .target(name: "ISUnityAdsAdapter"),
             ],
             path: "Sources/Yodo1MasMediationUnityAds-ISUnityAdsAdapterTarget",
         ),
@@ -725,6 +757,7 @@ let package = Package(
             dependencies: [
                 .target(name: "Yodo1MasMediationVungle"),
                 .product(name: "AppLovinSDK", package: "AppLovin-MAX-Swift-Package"),
+                .target(name: "AppLovinMediationVungleAdapter"),
             ],
             path: "Sources/Yodo1MasMediationVungle-AppLovinMediationVungleAdapterTarget",
         ),
@@ -739,6 +772,7 @@ let package = Package(
             dependencies: [
                 .target(name: "Yodo1MasMediationVungle"),
                 .product(name: "GoogleMobileAds", package: "swift-package-manager-google-mobile-ads"),
+                .target(name: "LiftoffMonetizeAdapter"),
             ],
             path: "Sources/Yodo1MasMediationVungle-LiftoffMonetizeAdapterTarget",
         ),
@@ -753,6 +787,7 @@ let package = Package(
             dependencies: [
                 .target(name: "Yodo1MasMediationVungle"),
                 .product(name: "UnityMediationSDK", package: "Unity-Mediation-iAds-Swift-Package"),
+                .target(name: "ISVungleAdapter"),
             ],
             path: "Sources/Yodo1MasMediationVungle-ISVungleAdapterTarget",
         ),
@@ -796,6 +831,7 @@ let package = Package(
             dependencies: [
                 .target(name: "Yodo1MasMediationYso"),
                 .product(name: "AppLovinSDK", package: "AppLovin-MAX-Swift-Package"),
+                .target(name: "AppLovinMediationYSONetworkAdapter"),
             ],
             path: "Sources/Yodo1MasMediationYso-AppLovinMediationYSONetworkAdapterTarget",
         ),
