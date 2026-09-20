@@ -90,7 +90,7 @@ let package = Package(
         .binaryTarget(
             name: "Yodo1MasCore",
             url: "https://mas-artifacts.yodo1.com/5.0.0-dev.4/iOS/Dev/spm/Yodo1MasCore/Yodo1MasCore-5.0.0-dev.4.zip",
-            checksum: "57a83acf2f01fd93557e874ef2432ded5a7592ecc2f25ee48c4d7bd0650ce323"
+            checksum: "fade8b3c23e3d8694ab9e5797a304d71ef41d43502fd8ecf4482e95efff06b37"
         ),
         // ==================== Yodo1MasMediationAdMob ====================
         .target(
@@ -105,7 +105,7 @@ let package = Package(
         .binaryTarget(
             name: "Yodo1MasMediationAdMob",
             url: "https://mas-artifacts.yodo1.com/5.0.0-dev.4/iOS/Dev/spm/Yodo1MasMediationAdMob/Yodo1MasMediationAdMob-5.0.0-dev.4.zip",
-            checksum: "8702cc828f1170fe1125d13c647054603d15897179ada40a33c107f9a4014f5c"
+            checksum: "fc2dc9f06e515d6039687c4384c397d75133ac2049f18dbc4d3c41609ba5480d"
         ),
         // ==================== Yodo1MasMediationAdMob-AppLovinMediationGoogleAdapter ====================
         .target(
@@ -119,7 +119,7 @@ let package = Package(
         .binaryTarget(
             name: "AppLovinMediationGoogleAdapter",
             url: "https://mas-artifacts.yodo1.com/5.0.0-dev.4/iOS/Dev/spm/Yodo1MasMediationAdMob/AppLovinMediationGoogleAdapter-5.0.0-dev.4.zip",
-            checksum: "ca2849d1e7d7ea2aea00f01a6f58ffc6530f1aeebd7def76c6754dbadb75cd1b"
+            checksum: "680e4bd6e5729469533577dc8b9d997ed29df7c654744380e73c37e3bef53ef4"
         ),
         // ==================== Yodo1MasMediationAdMob-AppLovinMediationGoogleAdManagerAdapter ====================
         .target(
@@ -133,7 +133,7 @@ let package = Package(
         .binaryTarget(
             name: "AppLovinMediationGoogleAdManagerAdapter",
             url: "https://mas-artifacts.yodo1.com/5.0.0-dev.4/iOS/Dev/spm/Yodo1MasMediationAdMob/AppLovinMediationGoogleAdManagerAdapter-5.0.0-dev.4.zip",
-            checksum: "2d016a9e62fe1bb6a8871e8563cd564deada6b90865abc83fa8d54eb0ca3abdc"
+            checksum: "ea489e35db7103682262b03f92315cf54b05b4bf80b073c5ef3e3d0ffbf04a96"
         ),
         // ==================== Yodo1MasMediationAdMob-ISAdMobAdapter ====================
         .target(
@@ -147,7 +147,7 @@ let package = Package(
         .binaryTarget(
             name: "ISAdMobAdapter",
             url: "https://mas-artifacts.yodo1.com/5.0.0-dev.4/iOS/Dev/spm/Yodo1MasMediationAdMob/ISAdMobAdapter-5.0.0-dev.4.zip",
-            checksum: "5d2e17982f70ea53c01b9f3ecab1c8e4b250b07277cb51cf548d5855e6a06e84"
+            checksum: "01a7ab905792f6281780b18cdfd4da81be3460e5418b80db8c0d1acee062a2fb"
         ),
         // ==================== Yodo1MasMediationApplovin ====================
         .target(
@@ -162,7 +162,7 @@ let package = Package(
         .binaryTarget(
             name: "Yodo1MasMediationApplovin",
             url: "https://mas-artifacts.yodo1.com/5.0.0-dev.4/iOS/Dev/spm/Yodo1MasMediationApplovin/Yodo1MasMediationApplovin-5.0.0-dev.4.zip",
-            checksum: "abfaaf2241bbb7c7808fa4e675c38d1ffc755aa03c3411e19cb3bd9e08aa3249"
+            checksum: "bccc74e64f7a7810c55bf1b84c2ed2fb350bb14b23f647f2a3da4e938d95e2b6"
         ),
         // ==================== Yodo1MasMediationApplovin-AppLovinAdapter ====================
         .target(
@@ -176,7 +176,7 @@ let package = Package(
         .binaryTarget(
             name: "AppLovinAdapter",
             url: "https://mas-artifacts.yodo1.com/5.0.0-dev.4/iOS/Dev/spm/Yodo1MasMediationApplovin/AppLovinAdapter-5.0.0-dev.4.zip",
-            checksum: "cf17a89953a1c8c9dddf02a94ff1586778cfbb14f486ff750bd33277058f6eb2"
+            checksum: "892919820deec2b6a03b340e6fcb20cbe1de111ef7442cb76b3a09bf44aa6352"
         ),
         // ==================== Yodo1MasMediationApplovin-ISAppLovinAdapter ====================
         .target(
@@ -190,7 +190,7 @@ let package = Package(
         .binaryTarget(
             name: "ISAppLovinAdapter",
             url: "https://mas-artifacts.yodo1.com/5.0.0-dev.4/iOS/Dev/spm/Yodo1MasMediationApplovin/ISAppLovinAdapter-5.0.0-dev.4.zip",
-            checksum: "60e38fee8fba204f5cd67aeb8b89139f01b935ca2ce42a2c751bbe0abae26cd8"
+            checksum: "760444072d5f1098428283c5eea47890b8fb41ec16bb8364c9eb538fe5ee7aa1"
         ),
         // ==================== Yodo1MasMediationApplovin-A11MediationAppLovinMAXAdapter ====================
         .target(
@@ -203,7 +203,7 @@ let package = Package(
         .binaryTarget(
             name: "A11MediationAppLovinMAXAdapter",
             url: "https://mas-artifacts.yodo1.com/5.0.0-dev.4/iOS/Dev/spm/Yodo1MasMediationApplovin/A11MediationAppLovinMAXAdapter-5.0.0-dev.4.zip",
-            checksum: "ad05d933199ce3ab0b19394dcd5c856aafb9bab70b472ee8b56096351c848f03"
+            checksum: "797219f9dc6fa3800540350b5083963733262dcbe2e014c713c781f4088c2783"
         ),
         // ==================== Yodo1MasMediationBidMachine ====================
         .target(
@@ -218,7 +218,7 @@ let package = Package(
         .binaryTarget(
             name: "Yodo1MasMediationBidMachine",
             url: "https://mas-artifacts.yodo1.com/5.0.0-dev.4/iOS/Dev/spm/Yodo1MasMediationBidMachine/Yodo1MasMediationBidMachine-5.0.0-dev.4.zip",
-            checksum: "3ceff3becf78bd228c1caa1cabbef5a0e918a01f5bec6bef12333e6caaf42500"
+            checksum: "454d4d35a35b923e581d2658cdf94fe140284e644c3e8aaa3960c0c8e81d594b"
         ),
         // ==================== Yodo1MasMediationBidMachine-AppLovinMediationBidMachineAdapter ====================
         .target(
@@ -232,7 +232,7 @@ let package = Package(
         .binaryTarget(
             name: "AppLovinMediationBidMachineAdapter",
             url: "https://mas-artifacts.yodo1.com/5.0.0-dev.4/iOS/Dev/spm/Yodo1MasMediationBidMachine/AppLovinMediationBidMachineAdapter-5.0.0-dev.4.zip",
-            checksum: "c9644c1c5ae113f0e2b54370aea021eb6ac9b5e961e5700d47b697977bdc7b5f"
+            checksum: "254cdf9d0ed7377be8749ab47994700fdd2434863a44a7d4e1f0b1609f3a692f"
         ),
         // ==================== Yodo1MasMediationBidMachine-GoogleBidMachineAdapter ====================
         .target(
@@ -246,7 +246,7 @@ let package = Package(
         .binaryTarget(
             name: "GoogleBidMachineAdapter",
             url: "https://mas-artifacts.yodo1.com/5.0.0-dev.4/iOS/Dev/spm/Yodo1MasMediationBidMachine/GoogleBidMachineAdapter-5.0.0-dev.4.zip",
-            checksum: "a8ff1bfab92c608dea7fbf52a6b4eb0c80ed2eb1b9b2f32efc3e5f0e6eb06bb3"
+            checksum: "d111895c8ec4b4b6213815fb31da220c80a263293d014d732e0ffff5cfb19238"
         ),
         // ==================== Yodo1MasMediationBidMachine-ISBidMachineAdapter ====================
         .target(
@@ -260,7 +260,7 @@ let package = Package(
         .binaryTarget(
             name: "ISBidMachineAdapter",
             url: "https://mas-artifacts.yodo1.com/5.0.0-dev.4/iOS/Dev/spm/Yodo1MasMediationBidMachine/ISBidMachineAdapter-5.0.0-dev.4.zip",
-            checksum: "7de367845af352de53c992d05a7c72ad7ca8ce5ff5dcfa74194850c3b8235495"
+            checksum: "c3d9aa2590965b70154a66f6d5bfab2a954775bd4689fd15ac3a032137bdd274"
         ),
         // ==================== Yodo1MasMediationFacebook ====================
         .target(
@@ -275,7 +275,7 @@ let package = Package(
         .binaryTarget(
             name: "Yodo1MasMediationFacebook",
             url: "https://mas-artifacts.yodo1.com/5.0.0-dev.4/iOS/Dev/spm/Yodo1MasMediationFacebook/Yodo1MasMediationFacebook-5.0.0-dev.4.zip",
-            checksum: "5b1724204788388ee342bd2ba597a0afad628aea1fe61d8e0add2b61886541bf"
+            checksum: "dd99da7ba8bc0681016ca56ba80cfcecdd27d835cc0fef00f33f36ae39edddc4"
         ),
         // ==================== Yodo1MasMediationFacebook-AppLovinMediationFacebookAdapter ====================
         .target(
@@ -289,7 +289,7 @@ let package = Package(
         .binaryTarget(
             name: "AppLovinMediationFacebookAdapter",
             url: "https://mas-artifacts.yodo1.com/5.0.0-dev.4/iOS/Dev/spm/Yodo1MasMediationFacebook/AppLovinMediationFacebookAdapter-5.0.0-dev.4.zip",
-            checksum: "7d22ab218ea1003f09829e1d4200a003334b5ae776a20b8c9a566ca1a298c3a0"
+            checksum: "7487045874cee52da6b5e14a75cfbd9f797f959929fb4cdc5c4e5ed2f254d7f9"
         ),
         // ==================== Yodo1MasMediationFacebook-MetaAdapter ====================
         .target(
@@ -303,7 +303,7 @@ let package = Package(
         .binaryTarget(
             name: "MetaAdapter",
             url: "https://mas-artifacts.yodo1.com/5.0.0-dev.4/iOS/Dev/spm/Yodo1MasMediationFacebook/MetaAdapter-5.0.0-dev.4.zip",
-            checksum: "58a9da953c8828ece2e8aa96b1bed134d94393dec017a4953476bbda4abb8962"
+            checksum: "e5ac1fabb97f2b163d276ea3435b02494d105ceb10307c4dc8a8d7fdf58cf736"
         ),
         // ==================== Yodo1MasMediationFacebook-ISFacebookAdapter ====================
         .target(
@@ -317,7 +317,7 @@ let package = Package(
         .binaryTarget(
             name: "ISFacebookAdapter",
             url: "https://mas-artifacts.yodo1.com/5.0.0-dev.4/iOS/Dev/spm/Yodo1MasMediationFacebook/ISFacebookAdapter-5.0.0-dev.4.zip",
-            checksum: "4c4c79e240d0df98eee4fd5345b068545f444a688b16fbf655b45487e0bee954"
+            checksum: "4b91a049385f43792c1a38e27370069035db559ed712fe8009261d3605373661"
         ),
         // ==================== Yodo1MasMediationFyber ====================
         .target(
@@ -332,7 +332,7 @@ let package = Package(
         .binaryTarget(
             name: "Yodo1MasMediationFyber",
             url: "https://mas-artifacts.yodo1.com/5.0.0-dev.4/iOS/Dev/spm/Yodo1MasMediationFyber/Yodo1MasMediationFyber-5.0.0-dev.4.zip",
-            checksum: "33c2cacbaf0c40e1ba4a8fb4b0e5936743be7e1d8e11aece4fee432e609b76ad"
+            checksum: "50efeb1015cbdb1222c6e8eb5bf840b379fa2f6b3d69ee1eb0f779077cd0018b"
         ),
         // ==================== Yodo1MasMediationFyber-AppLovinMediationFyberAdapter ====================
         .target(
@@ -346,7 +346,7 @@ let package = Package(
         .binaryTarget(
             name: "AppLovinMediationFyberAdapter",
             url: "https://mas-artifacts.yodo1.com/5.0.0-dev.4/iOS/Dev/spm/Yodo1MasMediationFyber/AppLovinMediationFyberAdapter-5.0.0-dev.4.zip",
-            checksum: "5ce7aa191280f6e011be1549c64b630dce6c683912ad2da0d9c6f1ee266f7361"
+            checksum: "e52ad1f5fb554e212a457db9d1a783d8e0f0a5340e65c7b8da3053309c1c431a"
         ),
         // ==================== Yodo1MasMediationFyber-DTExchangeAdapter ====================
         .target(
@@ -360,7 +360,7 @@ let package = Package(
         .binaryTarget(
             name: "DTExchangeAdapter",
             url: "https://mas-artifacts.yodo1.com/5.0.0-dev.4/iOS/Dev/spm/Yodo1MasMediationFyber/DTExchangeAdapter-5.0.0-dev.4.zip",
-            checksum: "629a123f20be1c7640de88a4d2e81ed4d35a1fab742ba2e6f8d18f63801e4afb"
+            checksum: "eef3d55189805a56a7ce7ad53a227118608f1ca86f8e582bd0ebe503febd62ab"
         ),
         // ==================== Yodo1MasMediationFyber-ISFyberAdapter ====================
         .target(
@@ -374,7 +374,7 @@ let package = Package(
         .binaryTarget(
             name: "ISFyberAdapter",
             url: "https://mas-artifacts.yodo1.com/5.0.0-dev.4/iOS/Dev/spm/Yodo1MasMediationFyber/ISFyberAdapter-5.0.0-dev.4.zip",
-            checksum: "158bb8e09747f0e18eebd0b82069ca30d2103de2330cb0839db53de2814409c9"
+            checksum: "7e13a557ef195c0a4db01b5b227ea07e216dc5ec77c0711691e1e454457e3273"
         ),
         // ==================== Yodo1MasMediationInMobi ====================
         .target(
@@ -389,7 +389,7 @@ let package = Package(
         .binaryTarget(
             name: "Yodo1MasMediationInMobi",
             url: "https://mas-artifacts.yodo1.com/5.0.0-dev.4/iOS/Dev/spm/Yodo1MasMediationInMobi/Yodo1MasMediationInMobi-5.0.0-dev.4.zip",
-            checksum: "27ef188bbd409c9f3682e6582cac021631d6da269253d9b50372240d84668c37"
+            checksum: "b9b53267a6e4eeef546fdef920c3bc3ee8185efc3e07d65114a4b6890d8c5406"
         ),
         // ==================== Yodo1MasMediationInMobi-AppLovinMediationInMobiAdapter ====================
         .target(
@@ -403,7 +403,7 @@ let package = Package(
         .binaryTarget(
             name: "AppLovinMediationInMobiAdapter",
             url: "https://mas-artifacts.yodo1.com/5.0.0-dev.4/iOS/Dev/spm/Yodo1MasMediationInMobi/AppLovinMediationInMobiAdapter-5.0.0-dev.4.zip",
-            checksum: "cd16100f297392240053dc3c66370b96a1655646cfec0bbf4615a7085d52478c"
+            checksum: "5a6ea45b7af583fc00aa0f27e597dc6ded42ed8700847ed018c899974838a5d3"
         ),
         // ==================== Yodo1MasMediationInMobi-InMobiAdapter ====================
         .target(
@@ -417,7 +417,7 @@ let package = Package(
         .binaryTarget(
             name: "InMobiAdapter",
             url: "https://mas-artifacts.yodo1.com/5.0.0-dev.4/iOS/Dev/spm/Yodo1MasMediationInMobi/InMobiAdapter-5.0.0-dev.4.zip",
-            checksum: "b314314378cb3404c1007f07a1a11c86668aea77930c82eb263be69fe711f1ef"
+            checksum: "fba16df58f889ae9b03ae25c5a31175f4f1b4cf6f29f7b763d1cb39ec4a24958"
         ),
         // ==================== Yodo1MasMediationInMobi-ISInMobiAdapter ====================
         .target(
@@ -431,7 +431,7 @@ let package = Package(
         .binaryTarget(
             name: "ISInMobiAdapter",
             url: "https://mas-artifacts.yodo1.com/5.0.0-dev.4/iOS/Dev/spm/Yodo1MasMediationInMobi/ISInMobiAdapter-5.0.0-dev.4.zip",
-            checksum: "93575233fe825f0a4e0a42cea8d79932c6ae51a6c366f60da2efd4fedd6ddfb5"
+            checksum: "f7c180e770b99a4a9b0f5fbdd38a6263388ec56a6aac5339b11ebae12d4b8bfe"
         ),
         // ==================== Yodo1MasMediationIronSource ====================
         .target(
@@ -446,7 +446,7 @@ let package = Package(
         .binaryTarget(
             name: "Yodo1MasMediationIronSource",
             url: "https://mas-artifacts.yodo1.com/5.0.0-dev.4/iOS/Dev/spm/Yodo1MasMediationIronSource/Yodo1MasMediationIronSource-5.0.0-dev.4.zip",
-            checksum: "acba69029a75fc6e08e394cfa95156beae297fbf3a2caaa22aa2ddf6cf4415d2"
+            checksum: "b83593b2ff62d97b134e7679a95068fcc52a08e52654b37c393f9b68331bdf4a"
         ),
         // ==================== Yodo1MasMediationIronSource-AppLovinMediationIronSourceAdapter ====================
         .target(
@@ -460,7 +460,7 @@ let package = Package(
         .binaryTarget(
             name: "AppLovinMediationIronSourceAdapter",
             url: "https://mas-artifacts.yodo1.com/5.0.0-dev.4/iOS/Dev/spm/Yodo1MasMediationIronSource/AppLovinMediationIronSourceAdapter-5.0.0-dev.4.zip",
-            checksum: "71e9965aa0d9c46818b7939ad26d94b68bf43be093fbc8444a31e67ef4977892"
+            checksum: "d34336de7a6882c7f4a1ab0e9ece369db46b3614c400863dd959df9471f023f0"
         ),
         // ==================== Yodo1MasMediationIronSource-IronSourceAdapter ====================
         .target(
@@ -474,7 +474,7 @@ let package = Package(
         .binaryTarget(
             name: "IronSourceAdapter",
             url: "https://mas-artifacts.yodo1.com/5.0.0-dev.4/iOS/Dev/spm/Yodo1MasMediationIronSource/IronSourceAdapter-5.0.0-dev.4.zip",
-            checksum: "27b494ea4b52849c9db9e8b97bc699245d5593c21043c3915a2a302af26c46de"
+            checksum: "3fbb07c691626f4f30ee3fba190aec53dd326b41f870806a432894ee3552ee69"
         ),
         // ==================== Yodo1MasMediationMintegral ====================
         .target(
@@ -489,7 +489,7 @@ let package = Package(
         .binaryTarget(
             name: "Yodo1MasMediationMintegral",
             url: "https://mas-artifacts.yodo1.com/5.0.0-dev.4/iOS/Dev/spm/Yodo1MasMediationMintegral/Yodo1MasMediationMintegral-5.0.0-dev.4.zip",
-            checksum: "ba4fcf5b9c46451a2957ac51d3cf4dba1ea72f4a0da2fa200b8c430019d2cf8b"
+            checksum: "fe3a1672f50215fa66d0ebfe380e3d30cf4d24f98dd8454a9c84b7c444875868"
         ),
         // ==================== Yodo1MasMediationMintegral-AppLovinMediationMintegralAdapter ====================
         .target(
@@ -503,7 +503,7 @@ let package = Package(
         .binaryTarget(
             name: "AppLovinMediationMintegralAdapter",
             url: "https://mas-artifacts.yodo1.com/5.0.0-dev.4/iOS/Dev/spm/Yodo1MasMediationMintegral/AppLovinMediationMintegralAdapter-5.0.0-dev.4.zip",
-            checksum: "94e5ca41ae579b2ad6a83ea149ee3950534f797c4a6b7d9b2b888f3d34ab5412"
+            checksum: "ea65fdf0cadb85118c672b68aec469b5e686f2eade6f5a7d8d02bcb4e6138d81"
         ),
         // ==================== Yodo1MasMediationMintegral-MintegralAdapter ====================
         .target(
@@ -517,7 +517,7 @@ let package = Package(
         .binaryTarget(
             name: "MintegralAdapter",
             url: "https://mas-artifacts.yodo1.com/5.0.0-dev.4/iOS/Dev/spm/Yodo1MasMediationMintegral/MintegralAdapter-5.0.0-dev.4.zip",
-            checksum: "ecec420834b6da3cd92ebf6a75bec0a00bedaadbc73f1555849f3dd396f1d68c"
+            checksum: "44d6f0a3b5b5f3b50c822cdd9df48f3c22211fa825031a3e23d32d4d4f512673"
         ),
         // ==================== Yodo1MasMediationMintegral-ISMintegralAdapter ====================
         .target(
@@ -531,7 +531,7 @@ let package = Package(
         .binaryTarget(
             name: "ISMintegralAdapter",
             url: "https://mas-artifacts.yodo1.com/5.0.0-dev.4/iOS/Dev/spm/Yodo1MasMediationMintegral/ISMintegralAdapter-5.0.0-dev.4.zip",
-            checksum: "c2bd6523d45fb8f402871dd75c2b8a2a3ff0b0cbec11293b26924159b38b641c"
+            checksum: "f6e3c93d13375e343db41f900d77569bafd6364b3149ef636780351913bb55ad"
         ),
         // ==================== Yodo1MasMediationMoloco ====================
         .target(
@@ -546,7 +546,7 @@ let package = Package(
         .binaryTarget(
             name: "Yodo1MasMediationMoloco",
             url: "https://mas-artifacts.yodo1.com/5.0.0-dev.4/iOS/Dev/spm/Yodo1MasMediationMoloco/Yodo1MasMediationMoloco-5.0.0-dev.4.zip",
-            checksum: "0cc7700e7f2571cd4cf94b575b330cd1bcb8a0193ae57e993cb3e3a4460a11c0"
+            checksum: "f4bd26c6aec8f81e0f3969f69752f0d0d39a093c95b4fa37d3a2ca4669fc943c"
         ),
         // ==================== Yodo1MasMediationMoloco-AppLovinMediationMolocoAdapter ====================
         .target(
@@ -560,7 +560,7 @@ let package = Package(
         .binaryTarget(
             name: "AppLovinMediationMolocoAdapter",
             url: "https://mas-artifacts.yodo1.com/5.0.0-dev.4/iOS/Dev/spm/Yodo1MasMediationMoloco/AppLovinMediationMolocoAdapter-5.0.0-dev.4.zip",
-            checksum: "198af8cd9bf6eb75a4c282031cf7faf9345b14052bffccddc580d49e17500fc5"
+            checksum: "efe1cee11884b26f41f7e775c328cd1ba42a5b886fd315e1d054b51ed9c48242"
         ),
         // ==================== Yodo1MasMediationMoloco-MolocoAdapter ====================
         .target(
@@ -574,7 +574,7 @@ let package = Package(
         .binaryTarget(
             name: "MolocoAdapter",
             url: "https://mas-artifacts.yodo1.com/5.0.0-dev.4/iOS/Dev/spm/Yodo1MasMediationMoloco/MolocoAdapter-5.0.0-dev.4.zip",
-            checksum: "a6bc092641cc9a5725f42dd8ad29499514f57aa92c88f9b79b73506c9dc0347c"
+            checksum: "d59ed434b6735f748d7a975f5cdfbb3627a4b687d223b77d30a97c620e3b91ba"
         ),
         // ==================== Yodo1MasMediationMoloco-ISMolocoAdapter ====================
         .target(
@@ -588,7 +588,7 @@ let package = Package(
         .binaryTarget(
             name: "ISMolocoAdapter",
             url: "https://mas-artifacts.yodo1.com/5.0.0-dev.4/iOS/Dev/spm/Yodo1MasMediationMoloco/ISMolocoAdapter-5.0.0-dev.4.zip",
-            checksum: "b245d0b53a01189e325fcbe35895daabf1fad4d3405192a68990a954361b8540"
+            checksum: "9a898cc01806f3b559e3b14130455109d50c6a8dd849d6d02c40fb9dac47cf39"
         ),
         // ==================== Yodo1MasMediationPangle ====================
         .target(
@@ -603,7 +603,7 @@ let package = Package(
         .binaryTarget(
             name: "Yodo1MasMediationPangle",
             url: "https://mas-artifacts.yodo1.com/5.0.0-dev.4/iOS/Dev/spm/Yodo1MasMediationPangle/Yodo1MasMediationPangle-5.0.0-dev.4.zip",
-            checksum: "4dcbefc4936385432530915ea68b010c6453d52a43e9d0269e78c0591442f9c8"
+            checksum: "a5a29cd44af246ce85609dc0101230a300f46fdfb5e9d790fc33a6bf11969333"
         ),
         // ==================== Yodo1MasMediationPangle-AppLovinMediationByteDanceAdapter ====================
         .target(
@@ -617,7 +617,7 @@ let package = Package(
         .binaryTarget(
             name: "AppLovinMediationByteDanceAdapter",
             url: "https://mas-artifacts.yodo1.com/5.0.0-dev.4/iOS/Dev/spm/Yodo1MasMediationPangle/AppLovinMediationByteDanceAdapter-5.0.0-dev.4.zip",
-            checksum: "f23e2c7ffb741aef84c0896e8403f28ea09fd82694e77898ff7b6ee8e89791ad"
+            checksum: "adebf6e873082fda3c7165b7dfafefd9956f0c9fd62f40fd3c236e2bcc805452"
         ),
         // ==================== Yodo1MasMediationPangle-PangleAdapter ====================
         .target(
@@ -631,7 +631,7 @@ let package = Package(
         .binaryTarget(
             name: "PangleAdapter",
             url: "https://mas-artifacts.yodo1.com/5.0.0-dev.4/iOS/Dev/spm/Yodo1MasMediationPangle/PangleAdapter-5.0.0-dev.4.zip",
-            checksum: "ad6e6458c20b67e4515a78228d0dbbcfd5df3807f94cd372eb7787a2b091ed3d"
+            checksum: "1de0940dcc882a95b7a66540610f25cce1939c1be1550e603c3dc4a520c05235"
         ),
         // ==================== Yodo1MasMediationPangle-ISPangleAdapter ====================
         .target(
@@ -645,7 +645,7 @@ let package = Package(
         .binaryTarget(
             name: "ISPangleAdapter",
             url: "https://mas-artifacts.yodo1.com/5.0.0-dev.4/iOS/Dev/spm/Yodo1MasMediationPangle/ISPangleAdapter-5.0.0-dev.4.zip",
-            checksum: "f5efb6bfa06f0058e718a5d86797a3e7c9a36878d94a349881699a87ca935699"
+            checksum: "40c17065f3a37471f074e1aab3e95dab9b1dbca390409a55f8d62c6c1d2ded55"
         ),
         // ==================== Yodo1MasMediationUnityAds ====================
         .target(
@@ -660,7 +660,7 @@ let package = Package(
         .binaryTarget(
             name: "Yodo1MasMediationUnityAds",
             url: "https://mas-artifacts.yodo1.com/5.0.0-dev.4/iOS/Dev/spm/Yodo1MasMediationUnityAds/Yodo1MasMediationUnityAds-5.0.0-dev.4.zip",
-            checksum: "5654867c2a5e9f404fbcc7b3a47c3c4ea7cd0b172f2eaa94c10f40118733ef01"
+            checksum: "4eb639f25359c2b39e6f0571a08407d43e7439d14a010d3d9b46fb8384dd5dee"
         ),
         // ==================== Yodo1MasMediationUnityAds-AppLovinMediationUnityAdsAdapter ====================
         .target(
@@ -674,7 +674,7 @@ let package = Package(
         .binaryTarget(
             name: "AppLovinMediationUnityAdsAdapter",
             url: "https://mas-artifacts.yodo1.com/5.0.0-dev.4/iOS/Dev/spm/Yodo1MasMediationUnityAds/AppLovinMediationUnityAdsAdapter-5.0.0-dev.4.zip",
-            checksum: "c59281dab2ec104dc314ef6abf3cbc4765a6d85d38119361f3054d2213953781"
+            checksum: "d7c8ee84dd34f7fc5073a89d17e7536bd7713ea1974502fdf3ee1a9e04523ea6"
         ),
         // ==================== Yodo1MasMediationUnityAds-UnityAdapter ====================
         .target(
@@ -688,7 +688,7 @@ let package = Package(
         .binaryTarget(
             name: "UnityAdapter",
             url: "https://mas-artifacts.yodo1.com/5.0.0-dev.4/iOS/Dev/spm/Yodo1MasMediationUnityAds/UnityAdapter-5.0.0-dev.4.zip",
-            checksum: "d73da57916f0aa6f9ebc151089168119c2bc68eb63ec1c6f5d3cae073ca2bd29"
+            checksum: "c57ce1ff5d967d50a643e3992be7fcbb07a424e78b5da851317ab3b0309f2dc0"
         ),
         // ==================== Yodo1MasMediationUnityAds-ISUnityAdsAdapter ====================
         .target(
@@ -702,7 +702,7 @@ let package = Package(
         .binaryTarget(
             name: "ISUnityAdsAdapter",
             url: "https://mas-artifacts.yodo1.com/5.0.0-dev.4/iOS/Dev/spm/Yodo1MasMediationUnityAds/ISUnityAdsAdapter-5.0.0-dev.4.zip",
-            checksum: "7694bd9c5f7398cef02d27d45fb75339145f7426a433b267a6ec95cc18758680"
+            checksum: "af8bb435c04d6896124b4db0743bcab19ca32eb08fe84863f2fe8a4af80d364f"
         ),
         // ==================== Yodo1MasMediationVungle ====================
         .target(
@@ -717,7 +717,7 @@ let package = Package(
         .binaryTarget(
             name: "Yodo1MasMediationVungle",
             url: "https://mas-artifacts.yodo1.com/5.0.0-dev.4/iOS/Dev/spm/Yodo1MasMediationVungle/Yodo1MasMediationVungle-5.0.0-dev.4.zip",
-            checksum: "16303a12a74ef6d112afe0c1b8754f963d66b1bce29bff4b0f490dbb8fb4f033"
+            checksum: "fa1dc6502e6a02e65851e61f6f9157edfe38fb528a1c757e8b38cb8a8d9f902f"
         ),
         // ==================== Yodo1MasMediationVungle-AppLovinMediationVungleAdapter ====================
         .target(
@@ -731,7 +731,7 @@ let package = Package(
         .binaryTarget(
             name: "AppLovinMediationVungleAdapter",
             url: "https://mas-artifacts.yodo1.com/5.0.0-dev.4/iOS/Dev/spm/Yodo1MasMediationVungle/AppLovinMediationVungleAdapter-5.0.0-dev.4.zip",
-            checksum: "96ae76c08acaa9cdf2dcc0e75cc51943543a8149b73640650b2ea72cee918348"
+            checksum: "d0579a8dd2ea71d65cef957ceb85ab21d8ba619b3470ce938edc2d1a01b49c5a"
         ),
         // ==================== Yodo1MasMediationVungle-LiftoffMonetizeAdapter ====================
         .target(
@@ -745,7 +745,7 @@ let package = Package(
         .binaryTarget(
             name: "LiftoffMonetizeAdapter",
             url: "https://mas-artifacts.yodo1.com/5.0.0-dev.4/iOS/Dev/spm/Yodo1MasMediationVungle/LiftoffMonetizeAdapter-5.0.0-dev.4.zip",
-            checksum: "5204e2e83be5bada0f6b70d81119612520db1805108dc71a1af9d60ad4efafc4"
+            checksum: "4dac66e66cfd44279c69074480eafc42bbfe0628c8a8a884b3fc5d1c5070c040"
         ),
         // ==================== Yodo1MasMediationVungle-ISVungleAdapter ====================
         .target(
@@ -759,7 +759,7 @@ let package = Package(
         .binaryTarget(
             name: "ISVungleAdapter",
             url: "https://mas-artifacts.yodo1.com/5.0.0-dev.4/iOS/Dev/spm/Yodo1MasMediationVungle/ISVungleAdapter-5.0.0-dev.4.zip",
-            checksum: "f871b3f68a7fd4f865b8b9c8fd060c27f0e02d41e303b92c79e5f968416a5e1f"
+            checksum: "21054123d3f7a9ebfe2122a23cc84f8da07c20c5d2fc10d6988eb6e1ebfb2ed1"
         ),
         // ==================== Yodo1MasMediationYodo1 ====================
         .target(
@@ -773,7 +773,7 @@ let package = Package(
         .binaryTarget(
             name: "Yodo1MasMediationYodo1",
             url: "https://mas-artifacts.yodo1.com/5.0.0-dev.4/iOS/Dev/spm/Yodo1MasMediationYodo1/Yodo1MasMediationYodo1-5.0.0-dev.4.zip",
-            checksum: "d601f1452c0ccbe9a26da09b79c39df38e84916a774f8b092bdd1bcc2cf67ff7"
+            checksum: "3ff9a31b7a38a54cb7b9d6c6ad36507bcfd8f92bf6242def1f2541f1380600d5"
         ),
         // ==================== Yodo1MasMediationYso ====================
         .target(
@@ -788,7 +788,7 @@ let package = Package(
         .binaryTarget(
             name: "Yodo1MasMediationYso",
             url: "https://mas-artifacts.yodo1.com/5.0.0-dev.4/iOS/Dev/spm/Yodo1MasMediationYso/Yodo1MasMediationYso-5.0.0-dev.4.zip",
-            checksum: "84fb628382494bb848a0feb454d5e5edc0e69e9f57ac4fb100faa019d7d40192"
+            checksum: "5df72f73d4710cb8b10048549d44c903057a81c170720dc58109f068902e5087"
         ),
         // ==================== Yodo1MasMediationYso-AppLovinMediationYSONetworkAdapter ====================
         .target(
@@ -802,7 +802,7 @@ let package = Package(
         .binaryTarget(
             name: "AppLovinMediationYSONetworkAdapter",
             url: "https://mas-artifacts.yodo1.com/5.0.0-dev.4/iOS/Dev/spm/Yodo1MasMediationYso/AppLovinMediationYSONetworkAdapter-5.0.0-dev.4.zip",
-            checksum: "571a3adc521ca92165f06c3c00071131a611edbc867d0f31f03fca0781766b06"
+            checksum: "95538a75d45595bfdbc84fed7541524301df8475f75462312c53907277631b32"
         ),
     ]
 )
